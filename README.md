@@ -8,19 +8,19 @@ Os caciques da região de Tutuaçu pretendem integrar suas tribos à chamada “
 Para solucionar problemas baseados em encontrar o menor custo de
 conexão entre diferentes pontos, a Teoria dos Grafos apresenta soluções
 plausíveis de serem implementadas em computadores em forma de
-algoritmos.
+algoritmos.<br/>
 Sendo assim, o problema apresentado foi estudado e as entradas de
 dados foram analisadas. Após isso, a melhor solução encontrada pelo grupo
 foi criar uma Árvore Geradora Mínima, em que os vértices do grafo são
 definidos pelas tabas e o peso das arestas que os conectam é definido pelo
-impacto ambiental.
+impacto ambiental.<br/>
 A fim de obter a Árvore Geradora Mínima de um grafo, dois algoritmos
 conhecidos apresentam um bom desempenho e possuem o mesmo
 resultado, sendo esses: Kruskal e Prim. A priori, escolhemos o Algoritmo de
 Kruskal, o qual efetua a conexão de todos os vértices do grafo com o menor
 custo possível, sem gerar ciclos. Entretanto, tendo em vista que solucionar o
 problema dessa maneira seria uma tarefa simples, optamos por não utilizar
-nenhum destes algoritmos, desenvolvendo outra solução.
+nenhum destes algoritmos, desenvolvendo outra solução.<br/>
 Portanto, a solução desenvolvida baseia-se no algoritmo Union-Find,
 o qual mantém o controle de um conjunto de elementos particionados em
 subconjuntos disjuntos (não sobre-posicionados). Ele fornece operações com
