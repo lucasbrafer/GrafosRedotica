@@ -1,5 +1,5 @@
 # Grafos - Desafio do Rede Ótica 🏕️
-Código desenvolvido para resolução do desafio https://br.spoj.com/problems/DRAGAOMG/
+Código desenvolvido para resolução do desafio https://br.spoj.com/problems/REDOTICA/
 
 ## Problema - Rede Ótica interligando as tabas 🖧
 Os caciques da região de Tutuaçu pretendem integrar suas tribos à chamada “aldeia global”. A primeira providência foi a distribuição de telefones celulares a todos os pajés. Agora, planejam montar uma rede de fibra ótica interligando todas as tabas. Esta empreitada requer que sejam abertas novas picadas na mata, passando por reservas de flora e fauna. Conscientes da necessidade de preservar o máximo possível o meio ambiente, os caciques encomendaram um estudo do impacto ambiental do projeto. Será que você consegue ajudá-los a projetar a rede de fibra ótica?
