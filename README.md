@@ -8,6 +8,7 @@ Os caciques da região de Tutuaçu pretendem integrar suas tribos à chamada “
 Feito toda a modelagem e desenvolvimento do problema, foi gerado a solução de se utilizar um **Árvore Geradora Mínima**,  onde seus vértices do grafo são definidos pelas tabas e o peso das arestas que os conectam é definido pelo impacto ambiental. A fim de obter a Árvore Geradora Mínima de um grafo, dois algoritmos conhecidos apresentam um bom desempenho e possuem o mesmo resultado, sendo esses: **Kruskal** e **Prim** porém para fins didáticos foi desenvolvido uma solução própria baseada no **Union-Find**, o qual mantém o controle de um conjunto de elementos particionados em subconjuntos disjuntos (não sobre-posicionados).
 1. [:orange_book: Relátorio em Documento da Solução](documento.pdf)
 1. [:blue_book: Apresentação em Slide da Solução](apresentacao.pdf)
+1. [:green_book: Código da solução implementada](codigo.cs)
 
 ## Confirmação da Solução :+1:
 ![image](image.png)
